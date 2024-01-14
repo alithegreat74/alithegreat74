@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Alireza from Iran<br><br>- 🔭 I’m working as Unity Developer in Icarus studios<br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I play video games<br>- ⚔️ My favorite types of games are souls likes. nothing gets me excited like a good challenge</p>
+<p align="left">I'm Alireza from Iran<br><br>- 🔭 I’m working as a Unity Developer in Icarus studios<br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I play video games<br>- ⚔️ My favorite types of games are souls likes. Nothing gets me excited like a good challenge</p>
 
 ###
 
